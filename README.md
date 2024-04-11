@@ -12,3 +12,6 @@ These days, it is common for concerns to rise around data privacy, especially pr
   <li>sexual orientation</li>
 </ul>
 
+So, using the above information as part of online identity puts individuals at risk of revealing their identifiable credentials (through database leaks, unauthorized access, or reconnaissance).
+
+The gist of this project is to provide the users a way to anonymize their online credentials, thus separating personally identifiable information from their credentials.
