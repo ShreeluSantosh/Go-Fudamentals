@@ -37,3 +37,5 @@ There are various ways of hashing multiple strings:
   <li>Sequential hashing</li>
   <li>Hierarchical hashing</li>
 </ul>
+
+The hashing algorithms to be explored here are SHA1, SHA256, SHA384, and SHA512.
