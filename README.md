@@ -30,3 +30,10 @@ The gist of this project is to provide the users a way to anonymize their online
 <hr>
 
 <h3 id="hash">Hashing:</h3>
+
+There are various ways of hashing multiple strings:
+<ul>
+  <li>Combined hashing</li>
+  <li>Sequential hashing</li>
+  <li>Hierarchical hashing</li>
+</ul>
