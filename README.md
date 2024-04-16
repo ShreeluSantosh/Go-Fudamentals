@@ -7,6 +7,7 @@ An anonymous authentication that allows users to access online services without 
 <ul>
   <li><a href="#intro">Introduction</a></li>
   <li><a href="#hash">Hashing</a></li>
+  <li><a href="#approach">Approach</li>
 </ul>
 
 <hr>
@@ -39,3 +40,7 @@ There are various ways of hashing multiple strings:
 </ul>
 
 The hashing algorithms to be explored here are SHA1, SHA256, SHA384, and SHA512.
+
+<hr>
+
+<h3 id="approach">Approach:</h3>
