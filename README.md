@@ -1,6 +1,6 @@
 # anonAuth
 
-An anonymous authentication that allows users to access online services without revealing their identities.
+An anonymous authentication mechanism that allows users to access online services without revealing their identities.
 
 <h2>Table of Contents:</h2>
 
@@ -40,6 +40,8 @@ There are various ways of hashing multiple strings:
 </ul>
 
 The hashing algorithms to be explored here are SHA1, SHA256, SHA384, and SHA512.
+
+The encryption schemes to be explored are: Public Key Cryptography and Elliptic Curve Cryptography
 
 <hr>
 
